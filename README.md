@@ -1,16 +1,15 @@
 # news_app
 
-A new Flutter project.
+react-nativeの学習コースの内容をFlutterで書き直したプロジェクトです。
+https://www.udemy.com/course/react-native-first-step/
 
-## Getting Started
+![image1](https://user-images.githubusercontent.com/25544286/116334949-05ca8180-a811-11eb-9e05-f5b881463d3a.png)
 
-This project is a starting point for a Flutter application.
+![image2](https://user-images.githubusercontent.com/25544286/116334957-095e0880-a811-11eb-9d5d-5d7e7823f881.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# 環境構築
+
+.envを作成し、news_apiのapi_keyを追加してください。
+https://newsapi.org
